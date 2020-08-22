@@ -11,4 +11,11 @@
 Simply run the command: ***pip install -r requirements.txt***. This will download andd install all the required dependencies.
 
 ## Usage:
-* Run the command: ***python img_editor_gui.py***. The GUI will launch :smile:.
+* Run the command: ***python img_editor_gui.py***. The GUI will launch.
+* Play around with it :smile: !!
+![1](https://user-images.githubusercontent.com/29462447/90945990-73363f00-e446-11ea-837e-37f16915d395.png)
+
+![2](https://user-images.githubusercontent.com/29462447/90945986-69144080-e446-11ea-88a1-1e9629a160b8.png)
+
+![3](https://user-images.githubusercontent.com/29462447/90945989-6ca7c780-e446-11ea-9342-d4e70fb10b32.png)
+
