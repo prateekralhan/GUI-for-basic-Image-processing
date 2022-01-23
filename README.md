@@ -1,4 +1,4 @@
-# GUI for basic Image processing
+# GUI for basic Image processing [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 ![gui_1](https://user-images.githubusercontent.com/29462447/90945869-4897b680-e445-11ea-934a-b523d1dc17b4.png)
 
 <p float="left">
